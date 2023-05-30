@@ -20,6 +20,6 @@
   
 <div>  
   <a href = "mailto:brevefelipe@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
-  <a href = "https://cursos.alura.com.br/vitrinedev/brevefelipe"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/felipe-de-sousa-breve" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href="https://www.linkedin.com/in/felipe-de-sousa-breve" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "https://cursos.alura.com.br/vitrinedev/brevefelipe"><img src="https://img.shields.io/badge/-Vitrine.Dev-%23333?style=for-the-badge&logoColor=blue" target="_blank"></a>
 </div>
